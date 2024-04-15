@@ -1,0 +1,7 @@
+C:\Prog\C#\Exercícios\StockController\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.AssemblyReference.cache
+C:\Prog\C#\Exercícios\StockController\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Prog\C#\Exercícios\StockController\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe.config
+C:\Prog\C#\Exercícios\StockController\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe
+C:\Prog\C#\Exercícios\StockController\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+C:\Prog\C#\Exercícios\StockController\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.exe
+C:\Prog\C#\Exercícios\StockController\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.pdb
